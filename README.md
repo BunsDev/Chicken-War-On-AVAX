@@ -1,54 +1,55 @@
 ## How to use this Repo:
 
-CLone this Repo.
+1. CLone this Repo.
 
-Use Unity Hub to open this.
+2. Use Unity Hub to open this.
 
-Use Visual Studio to open the CODE
+3. Use Visual Studio to open the CODE
 
 ## Smart Contract Address
 
-Smart Contract Account to use Chainlink VRF on AVAX
+**Smart Contract Account to use Chainlink VRF on AVAX**
 
 0xD0dF3E0Fd752F8391926621Aa6B949c1f0c3Aa17
 
 https://testnet.snowtrace.io/address/0xD0dF3E0Fd752F8391926621Aa6B949c1f0c3Aa17
 
-Account Factory
+**Account Factory**
 
 0xe69C9077b3F12939EFCd673171A4489f0f1370da
 
 https://testnet.snowtrace.io/address/0xe69C9077b3F12939EFCd673171A4489f0f1370da
 
-ERC721
+**ERC721**
 
 0xcFDB3eD63544847951013989ca3527Dd16784C3A
 
 https://testnet.snowtrace.io/address/0xDC9E649a41D2aC862b0Ac4bE764FE452079252a7
 
-ERC20
+**ERC20**
 
 0x6D971B96FF66809b13E938f11058f00D85ceB425
 
 https://testnet.snowtrace.io/token/0xAD1E8389FA2B6885937c3B4De702249DBA6a0C54?chainId=43113
 
 ## Inspiration
-Chainlink VRF (Verifiable Random Function) is a provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or usability. For each request, Chainlink VRF generates one or more random values and cryptographic proof of how those values were determined. The proof is published and verified onchain before any consuming applications can use it. This process ensures that results cannot be tampered with or manipulated by any single entity including oracle operators, miners, users, or smart contract developers.
+**Chainlink VRF (Verifiable Random Function):**
+is a provably fair and verifiable random number generator (RNG) that enables smart contracts to access random values without compromising security or usability. For each request, Chainlink VRF generates one or more random values and cryptographic proof of how those values were determined. The proof is published and verified onchain before any consuming applications can use it. This process ensures that results cannot be tampered with or manipulated by any single entity including oracle operators, miners, users, or smart contract developers.
 
-Account Abstraction & Smart Wallet on AVAX:
+**Account Abstraction & Smart Wallet on AVAX:**
 Vitalik Buterin sees the account abstraction as a catalyst that can attract a billion users to the Ethereum network.
 Smart wallets can transform our interactions with blockchain technology, offering an impressively seamless and 'invisible' wallet experience. Although there are hurdles yet to be surmounted, account abstraction efforts are already playing a pivotal role in accelerating the adoption of Web3 by providing a more integrated and user-friendly blockchain ecosystem.
 
 ## What it does
-Chainlink VRF:
+**Chainlink VRF:**
 Use Chainlink VRF to build reliable smart contracts for any applications that rely on unpredictable outcomes:
 Building blockchain games and NFTs.
 Building Lottery System in games.
 
-Account Abstraction & Smart Wallet on AVAX:
+**Account Abstraction & Smart Wallet on AVAX:**
 The incorporation of account abstraction in Chicken Merge Game has the potential to propel Web3 gaming to new heights. With simplified user experiences, games can attract a broader audience, transcending the boundaries of crypto enthusiasts. By removing the knowledge and technical barriers, game developers can scale their applications to reach millions of users worldwide. This expansion can lead to increased engagement, participation, and the establishment of vibrant gaming communities within the Web3 ecosystem. By eliminating the need for users to possess extensive crypto knowledge, the technology opens doors to widespread adoption and user engagement. As the world of gamification continues to evolve, account abstraction plays a crucial role in bridging the gap between blockchain technology and mainstream gaming. Embracing this innovation paves the way for a future of Blockchain.
 
-What problem we try to solve?
+**What problem we try to solve?**
 Enables smart contracts to access random values without compromising security or usability.
 
 Account Abstraction & Smart Wallet on AVAX:
@@ -63,10 +64,10 @@ Crypto wallets are a user's gateway to the world of blockchains — but the user
 4. Poor overall UX: All of the above make for a poor user experience which is not suited for most new users.
 
 ## Our Vision
-Chainlink VRF:
+**Chainlink VRF:**
 Increased randomness for game rewards and game elements.
 
-Account Abstraction & Smart Wallet on AVAX:
+**Account Abstraction & Smart Wallet on AVAX:**
 When it comes to gaming, players want immersive experiences without any technical interruptions. They want to focus on playing the game, not on complicated wallet configurations or multiple transaction authorizations. This is where Account Abstraction comes in, and here's why:
 
 1. User-Friendly: It simplifies the user experience by hiding complex technical aspects. No more dealing with private keys or gas payments directly.
