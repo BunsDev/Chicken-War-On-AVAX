@@ -1,10 +1,10 @@
-How to use this Repo:
+## How to use this Repo:
 
 CLone this Repo.
 Use Unity Hub to open this.
 Use Visual Studio to open the CODE
 
-Smart Contract Address
+## Smart Contract Address
 
 Smart Contract Account to use Chainlink VRF on AVAX
 
